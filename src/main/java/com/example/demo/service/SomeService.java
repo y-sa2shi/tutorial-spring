@@ -7,6 +7,6 @@ public class SomeService {
 
     /*サービス処理**/
     public void doService() {
-        System.out.println("do service");
+        System.out.println("Certain Services");
     }
 }
