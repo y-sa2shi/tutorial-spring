@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaConfigSampleApplication {
 
-    /**起動メソッド*/
+    /**起動*/
     public  static void main(String[] args){
         SpringApplication.run(JavaConfigSampleApplication.class, args)
                 .getBean(JavaConfigSampleApplication.class).exec();
@@ -30,3 +30,4 @@ public class JavaConfigSampleApplication {
         business2.doLogic();
     }
 }
+

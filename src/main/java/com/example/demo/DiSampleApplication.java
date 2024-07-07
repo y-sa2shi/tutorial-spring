@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DiSampleApplication {
 
 	/**
-	 * Spring boot起動
+	 * Spring boot起勁
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class DiSampleApplication {
 				.getBean(DiSampleApplication.class).execute();
 	}
 
-	/*注入される個所(インターフェース)*/
+	/**注入される個所(インターフェース)*/
 	@Autowired
 	private Greet g;
 
@@ -27,3 +27,4 @@ public class DiSampleApplication {
 	}
 
 }
+
