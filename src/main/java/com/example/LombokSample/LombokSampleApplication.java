@@ -17,7 +17,7 @@ public class LombokSampleApplication {
 				.getBean(LombokSampleApplication.class).execute();
 	}
 
-	/*注入される個所(インターフェース)*/
+	/**注入される個所(インターフェース)*/
 	@Autowired
 	private Greet g;
 
@@ -27,3 +27,4 @@ public class LombokSampleApplication {
 	}
 
 }
+

@@ -4,3 +4,4 @@ public interface Example {
     /**実行*/
     void run();
 }
+

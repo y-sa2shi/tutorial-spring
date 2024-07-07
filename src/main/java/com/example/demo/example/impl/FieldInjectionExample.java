@@ -17,3 +17,4 @@ public class FieldInjectionExample implements Example {
         someService.doService();
     }
 }
+

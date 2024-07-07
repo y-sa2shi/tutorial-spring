@@ -22,3 +22,4 @@ public class ConstructorInjectionExample implements Example {
         someService.doService();
     }
 }
+

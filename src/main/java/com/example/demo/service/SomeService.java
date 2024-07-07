@@ -5,8 +5,9 @@ import org.springframework.stereotype.Component;
 @Component
 public class SomeService {
 
-    /*サービス処理**/
+    /*サービス処琁E*/
     public void doService() {
         System.out.println("Certain Services");
     }
 }
+

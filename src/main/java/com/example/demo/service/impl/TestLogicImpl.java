@@ -9,3 +9,4 @@ public class TestLogicImpl implements BusinessLogic {
         System.out.println("test");
     }
 }
+

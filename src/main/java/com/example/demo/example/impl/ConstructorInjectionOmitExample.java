@@ -18,3 +18,4 @@ public class ConstructorInjectionOmitExample implements Example {
         someService.doService();
     }
 }
+

@@ -22,3 +22,4 @@ public class SetterInjectionExample implements Example {
         someService.doService();
     }
 }
+

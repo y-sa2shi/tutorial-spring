@@ -8,3 +8,4 @@ public class SampleLogicImpl implements BusinessLogic {
         System.out.println("sample");
     }
 }
+

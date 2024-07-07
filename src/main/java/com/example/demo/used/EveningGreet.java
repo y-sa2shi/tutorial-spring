@@ -9,3 +9,4 @@ public class EveningGreet implements Greet{
         return "Good evening";
     }
 }
+
